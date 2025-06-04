@@ -6,5 +6,5 @@
 #SBATCH --cpus-per-task=1
 #SBATCH --output=wordcount_output.txt
 
-module load python/3.10
+# you can load your modules here if you need them for your scripts e.g., R
 bash ../scripts/wordcount.sh
