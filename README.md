@@ -1,8 +1,8 @@
 # Workshop for Miistakis
 Repository for an introductory workshop to Compute Canada/Alliance with Miistakis Institute
 
-Date: June 6, 2025
-Facilitator: Dr. Sara Smith (Mount Royal University, ssmith6@mtroyal.ca)
+Date: June 6, 2025  
+Facilitator: Dr. Sara Smith (Mount Royal University, ssmith6@mtroyal.ca)  
 
 What you'll find in this repository: 
   - `data`: contains `sample1.txt`, `sample2.txt`, `sample3.txt` for script demonstration
