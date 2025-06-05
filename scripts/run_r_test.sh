@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --account=def-sjsmith
-#SBATCH --job-name=r_test
+#SBATCH --job-name=addCol_r
 #SBATCH --time=00:05:00
 #SBATCH --mem=1000
 #SBATCH --cpus-per-task=1
