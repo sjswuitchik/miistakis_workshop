@@ -5,7 +5,7 @@ Date: June 6, 2025
 Facilitator: Dr. Sara J. Smith (Assistant Professor, Mount Royal University, ssmith6@mtroyal.ca)  
 
 What you'll find in this repository: 
-  - `data`: contains `sample1.txt`, `sample2.txt`, `sample3.txt`, and `minData.csv` for script demonstration
+  - `data`: contains `sample1.txt`, `sample2.txt`, `sample3.txt`, and `minData.csv` for script demonstrations
   - `resources`: quick references for SLURM and bash commands
   - `scripts`
     - `01_wordcount.sh`: a basic bash script to count lines in `.txt` files
