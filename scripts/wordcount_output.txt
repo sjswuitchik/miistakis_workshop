@@ -1,6 +1,0 @@
-Processing ../data/sample1.txt
-3 ../data/sample1.txt
-Processing ../data/sample2.txt
-4 ../data/sample2.txt
-Processing ../data/sample3.txt
-1 ../data/sample3.txt
