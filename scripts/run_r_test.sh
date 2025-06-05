@@ -6,3 +6,4 @@
 #SBATCH --cpus-per-task=1
 
 module load r/4.5.0
+Rscript
