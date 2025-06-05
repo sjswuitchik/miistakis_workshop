@@ -7,4 +7,4 @@
 #SBATCH --output=output.txt
 
 # you can load your modules here if you need them for your scripts e.g., R
-bash ../scripts/wordcount.sh
+bash 01_wordcount.sh
