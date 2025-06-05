@@ -6,4 +6,4 @@
 #SBATCH --cpus-per-task=1
 
 module load r/4.5.0
-Rscript r_test.sh > std.Rout 2> std.Reff
+Rscript ../data/r_test.sh > std.Rout 2> std.Reff
