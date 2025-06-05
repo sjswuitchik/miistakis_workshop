@@ -5,8 +5,11 @@ Date: June 6, 2025
 Facilitator: Dr. Sara Smith (Mount Royal University, ssmith6@mtroyal.ca)  
 
 What you'll find in this repository: 
-  - `data`: contains `sample1.txt`, `sample2.txt`, `sample3.txt` for script demonstration
+  - `data`: contains `sample1.txt`, `sample2.txt`, `sample3.txt`, and `minData.csv` for script demonstration
   - `resources`: quick references for SLURM and bash commands
   - `scripts`
-    - `wordcount.sh`: a basic script to count lines in `.txt` files
-    - `slurm_test.sh`: a SLURM job script that schedules and runs the `wordcount.sh` script
+    - `01_wordcount.sh`: a basic bash script to count lines in `.txt` files
+    - `02_slurm_test.sh`: a SLURM job script that schedules and runs the `wordcount.sh` script
+    - `03_pkgInstall.R`: an R script containing the command to install `tidyverse` non-interactively
+    - `04_addCol.R`: an R script that reads in a CSV, adds a column, and writes out the manipulated data
+    - `05_run_r_test.sh`: a bash script that executes the `04_addCol.R` script on the cluster
