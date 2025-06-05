@@ -1,7 +1,6 @@
 library(tidyverse)
 
-pi <- read_delim("athCun.pi.csv") %>%
-  mutate(ratio = pi.mis/pi.syn) %>%
-  mutate(spp = "A. cunicularia")
+df <- read_delim("minData.csv") %>%
+  mutate(spp = "G. aculeatus")
 
-write_delim(pi, "athCun.clean.csv")
+write_delim(df, "minData.clean.csv")
