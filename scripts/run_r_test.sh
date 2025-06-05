@@ -6,4 +6,4 @@
 #SBATCH --cpus-per-task=1
 
 module load r/4.5.0
-Rscript ../data/r_test.R > std.Rout 2> std.Rerr
+Rscript r_test.R > std.Rout 2> std.Rerr
