@@ -6,7 +6,7 @@ Facilitator: Dr. Sara J. Smith (Assistant Professor, Mount Royal University, ssm
 
 What you'll find in this repository: 
   - `data`: contains `sample1.txt`, `sample2.txt`, `sample3.txt`, and `minData.csv` for script demonstrations
-  - `resources`: quick references for Compute Canada, SLURM, and Bash commands
+  - `resources`: slides from workshop
   - `scripts`
     - `01_wordcount.sh`: a basic bash script to count lines in `.txt` files
     - `02_slurm_test.sh`: a SLURM job script that schedules and runs the `wordcount.sh` script
