@@ -1,5 +1,5 @@
 # Workshop for Miistakis
-Repository for i) an introductory workshop to Compute Canada/Alliance and ii) an introductory workshop to git & GitHub with Miistakis Institute
+Repository for i) an introductory workshop to Compute Canada/Alliance, and ii) an introductory workshop to git & GitHub with Miistakis Institute
 
 Date: June 6, 2025 (Alliance) & July 25, 2025 (git & GitHub)  
 Facilitator: Dr. Sara J. Smith (Assistant Professor, Mount Royal University, ssmith6@mtroyal.ca)  
