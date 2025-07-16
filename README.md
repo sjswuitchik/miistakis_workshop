@@ -13,3 +13,7 @@ What you'll find in this repository:
     - `03_pkgInstall.R`: an R script containing the command to install `tidyverse` non-interactively
     - `04_addCol.R`: an R script that reads in a CSV, adds a column, and writes out the manipulated data
     - `05_run_r_test.sh`: a bash script that executes the `04_addCol.R` script on the cluster
+
+
+Updated for introductory GitHub workshop with Miistais Institute
+Date: July 27, 2025
