@@ -10,4 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-This is my first line in the test Rmd. I'm writing this line of code from my laptop in RStudio. 
+This is my first line in the test Rmd. I'm writing this line from my laptop in RStudio. 
+
+This is the second line of my test Rmd. I'm writing this line from the GitHub browser. 
+I also deleted 'of code' from line 13. 
