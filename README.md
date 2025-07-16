@@ -1,7 +1,7 @@
 # Workshop for Miistakis
-Repository for an introductory workshop to Compute Canada/Alliance with Miistakis Institute
+Repository for i) an introductory workshop to Compute Canada/Alliance and ii) an introductory workshop to git & GitHub with Miistakis Institute
 
-Date: June 6, 2025  
+Date: June 6, 2025 (Alliance) & July 25, 2025 (git & GitHub)  
 Facilitator: Dr. Sara J. Smith (Assistant Professor, Mount Royal University, ssmith6@mtroyal.ca)  
 
 What you'll find in this repository: 
@@ -13,7 +13,3 @@ What you'll find in this repository:
     - `03_pkgInstall.R`: an R script containing the command to install `tidyverse` non-interactively
     - `04_addCol.R`: an R script that reads in a CSV, adds a column, and writes out the manipulated data
     - `05_run_r_test.sh`: a bash script that executes the `04_addCol.R` script on the cluster
-
-
-Updated for introductory GitHub workshop with Miistais Institute
-Date: July 27, 2025
