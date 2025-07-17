@@ -1,5 +1,4 @@
 ---
-title: "Miistakis Workshop - GitHub"
 author: "Dr. Sara J. Smith"
 date: "`r Sys.Date()`"
 output: html_document
@@ -9,8 +8,13 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Add code from RStudio. 
 
-This is my first line in the test Rmd. I'm writing this line from my laptop in RStudio. 
+And more code.
 
-This is the second line of my test Rmd. I'm writing this line from the GitHub browser. 
-I also deleted 'of code' from line 13. 
+And a chunk.
+
+```{r}
+
+```
+
