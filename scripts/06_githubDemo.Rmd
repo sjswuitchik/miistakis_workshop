@@ -1,4 +1,5 @@
 ---
+title: "Demo"
 author: "Dr. Sara J. Smith"
 date: "`r Sys.Date()`"
 output: html_document
